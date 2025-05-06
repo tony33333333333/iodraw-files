@@ -25,20 +25,20 @@
             <mxPoint x="780" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-nZQ1sEtkqGabU8PvTa-11" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;Given Instruction:&quot;&quot;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+        <mxCell id="N-nZQ1sEtkqGabU8PvTa-11" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;Given Instruction:&quot;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(255, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;请撰写一篇关于城市数字治理的深度评论&lt;/b&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;&quot;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
           <mxGeometry x="130" y="440" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-12" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;" vertex="1" parent="1">
-          <mxGeometry x="80" y="620" width="60" height="57" as="geometry" />
+          <mxGeometry x="80" y="660" width="60" height="57" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-13" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.loading_circle_2;pointerEvents=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="570" width="40" height="40" as="geometry" />
+          <mxGeometry x="90" y="600" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
           <mxGeometry x="70" y="490" width="80" height="63" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-15" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;城市数字治理是城市管理现代化的重要体现。&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;通过数字技术的应用，政府能够更高效地提供公共服务、优化资源配置，&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;并提升社会治理能力。&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="540" width="450" height="120" as="geometry" />
+          <mxGeometry x="130" y="600" width="450" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

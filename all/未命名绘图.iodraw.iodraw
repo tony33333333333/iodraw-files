@@ -58,6 +58,9 @@
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.loading_circle_1;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="80" y="220" width="60" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="N-nZQ1sEtkqGabU8PvTa-23" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

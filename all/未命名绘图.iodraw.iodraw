@@ -58,8 +58,8 @@
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
           <mxGeometry x="70" y="760" width="80" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="N-nZQ1sEtkqGabU8PvTa-21" value="&lt;font color=&quot;#004c99&quot;&gt;城市数字治理不仅提升了行政效率，也增强了公众参与城市管理的积极性，&lt;/font&gt;&lt;div&gt;然而，在快速发展的同时，也应关注数字鸿沟和隐私保护等问题。&lt;/div&gt;&lt;div&gt;只有在技术进步与制度建设同步推进的基础上，数字治理才能真正实现“以人为本”，助力建设更加宜居、公正和高效的城市。&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="840" width="540" height="120" as="geometry" />
+        <mxCell id="N-nZQ1sEtkqGabU8PvTa-21" value="&lt;font color=&quot;#004c99&quot;&gt;城市数字治理不仅提升了行政效率，也增强了公众参与城市管理的积极性，&lt;/font&gt;&lt;div&gt;然而，在快速发展的同时，也应关注数字鸿沟和隐私保护等问题。&lt;/div&gt;&lt;div&gt;只有在技术进步与制度建设同步推进的基础上，数字治理才能真正实现“以人为本”，&lt;/div&gt;&lt;div&gt;助力建设更加宜居、公正和高效的城市。&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="840" width="620" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

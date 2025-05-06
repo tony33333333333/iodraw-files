@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N-nZQ1sEtkqGabU8PvTa-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="130" width="40" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-2" value="请撰写一篇关于城市数字治理的深度评论" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
           <mxGeometry x="130" y="110" width="280" height="60" as="geometry" />
         </mxCell>
@@ -17,7 +14,7 @@
           <mxGeometry x="710" y="217" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="100" height="100" as="geometry" />
+          <mxGeometry x="70" y="160" width="80" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

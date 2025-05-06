@@ -61,8 +61,11 @@
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-23" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots2;" vertex="1" parent="1">
           <mxGeometry x="75" y="290" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="N-nZQ1sEtkqGabU8PvTa-24" value="Generator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="N-nZQ1sEtkqGabU8PvTa-24" value="&lt;b&gt;Generator&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-nZQ1sEtkqGabU8PvTa-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="138" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

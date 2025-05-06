@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N-nZQ1sEtkqGabU8PvTa-2" value="请撰写一篇关于城市数字治理的深度评论" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+        <mxCell id="N-nZQ1sEtkqGabU8PvTa-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;请撰写一篇关于城市数字治理的深度评论&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
           <mxGeometry x="130" y="110" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;" vertex="1" parent="1">

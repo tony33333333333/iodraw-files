@@ -16,6 +16,9 @@
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="80" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="N-nZQ1sEtkqGabU8PvTa-6" value="请撰写一篇关于城市数字治理的深度评论" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="260" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

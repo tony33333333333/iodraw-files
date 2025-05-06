@@ -16,8 +16,14 @@
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="80" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="N-nZQ1sEtkqGabU8PvTa-6" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#006633&quot;&gt;城市数字治理是城市管理现代化的重要体现。&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#006633&quot;&gt;通过数字技术的应用，政府能够更高效地提供公共服务、优化资源配置，&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#006633&quot;&gt;并提升社会治理能力。&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;" vertex="1" parent="1">
+        <mxCell id="N-nZQ1sEtkqGabU8PvTa-6" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;城市数字治理是城市管理现代化的重要体现。&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;通过数字技术的应用，政府能够更高效地提供公共服务、优化资源配置，&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;并提升社会治理能力。&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="210" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N-nZQ1sEtkqGabU8PvTa-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

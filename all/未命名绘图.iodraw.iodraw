@@ -17,7 +17,7 @@
           <mxGeometry x="70" y="160" width="80" height="63" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-6" value="城市数字治理是城市管理现代化的重要体现。通过数字技术的应用，政府能够更高效地提供公共服务、优化资源配置，并提升社会治理能力。" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="210" width="451" height="160" as="geometry" />
+          <mxGeometry x="130" y="210" width="450" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

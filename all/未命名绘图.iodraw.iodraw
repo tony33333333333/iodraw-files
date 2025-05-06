@@ -23,7 +23,7 @@
           <mxGeometry x="130" y="393" width="500" height="90" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-12" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;" vertex="1" parent="1">
-          <mxGeometry x="80" y="613" width="60" height="57" as="geometry" />
+          <mxGeometry x="80" y="610" width="60" height="57" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-13" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.loading_circle_2;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="90" y="553" width="40" height="40" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="80" y="220" width="60" height="51" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-23" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="360" width="60" height="60" as="geometry" />
+          <mxGeometry x="75" y="290" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

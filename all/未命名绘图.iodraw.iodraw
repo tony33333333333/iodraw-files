@@ -11,7 +11,7 @@
           <mxGeometry x="70" y="129" width="80" height="63" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-6" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;城市数字治理是城市管理现代化的重要体现。&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;通过数字技术的应用，政府能够更高效地提供公共服务、优化资源配置，&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;并提升社会治理能力。&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="179" width="450" height="120" as="geometry" />
+          <mxGeometry x="120" y="210" width="450" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -32,7 +32,7 @@
           <mxGeometry x="70" y="443" width="80" height="63" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-15" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;b&gt;城市数字治理不仅提升了行政效率，也增强了公众参与城市管理的积极性，&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0066cc&quot;&gt;&lt;b&gt;推动城市治理向更加精细化、智能化方向发展。&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="523" width="450" height="120" as="geometry" />
+          <mxGeometry x="120" y="530" width="450" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -56,7 +56,7 @@
           <mxGeometry x="130" y="840" width="620" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.loading_circle_1;pointerEvents=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="60" height="51" as="geometry" />
+          <mxGeometry x="90" y="220" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-23" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots2;" vertex="1" parent="1">
           <mxGeometry x="75" y="290" width="70" height="70" as="geometry" />

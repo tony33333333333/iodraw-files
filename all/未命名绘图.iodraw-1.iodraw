@@ -84,8 +84,8 @@
             <mxPoint x="330" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMp5VxXfqU2QxVEDvB7B-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Extended&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;CTUjkJXFt-GPH0mA1xP2&quot; size=&quot;3&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;Response&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="591.35" y="649" width="100" height="50" as="geometry" />
+        <mxCell id="mMp5VxXfqU2QxVEDvB7B-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Extended&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Response&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="601.35" y="649" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mMp5VxXfqU2QxVEDvB7B-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Micro-Iteration&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="347" y="680" width="120" height="30" as="geometry" />

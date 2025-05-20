@@ -99,9 +99,6 @@
         <mxCell id="mMp5VxXfqU2QxVEDvB7B-21" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;(copy and drop&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;last 1/3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;for completion)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="428" y="589" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMp5VxXfqU2QxVEDvB7B-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mMp5VxXfqU2QxVEDvB7B-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMp5VxXfqU2QxVEDvB7B-27" target="mMp5VxXfqU2QxVEDvB7B-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -135,8 +132,8 @@
         <mxCell id="mMp5VxXfqU2QxVEDvB7B-50" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;y&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="1100" y="387" width="40" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="mMp5VxXfqU2QxVEDvB7B-51" value="Train next-iteration&#39;s&lt;div&gt;Generator and Extender&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="775" y="283" width="150" height="40" as="geometry" />
+        <mxCell id="mMp5VxXfqU2QxVEDvB7B-51" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Train next-iteration&#39;s&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;me7XoNaXoF5PB1yWGrDh&quot;&gt;Generator and Extender&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="283" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

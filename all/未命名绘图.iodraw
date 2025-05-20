@@ -82,13 +82,12 @@
         <mxCell id="N-nZQ1sEtkqGabU8PvTa-32" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry y="50" width="820" height="1010" as="geometry" />
         </mxCell>
-        <mxCell id="LjXZvQFzFZgXk6CmJNtm-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LjXZvQFzFZgXk6CmJNtm-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="660" as="sourcePoint" />
             <mxPoint x="440" y="610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="660" />
-              <mxPoint x="390" y="610" />
+              <mxPoint x="590" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>

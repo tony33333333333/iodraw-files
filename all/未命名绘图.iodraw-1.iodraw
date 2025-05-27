@@ -8,7 +8,7 @@
           <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GAdoCGbxw3RjG8w4o5po-2" value="提升文本篇幅生成能力" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="560" width="140" height="60" as="geometry" />
+          <mxGeometry x="140" y="570" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GAdoCGbxw3RjG8w4o5po-3" value="扩展指令集&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="340" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GAdoCGbxw3RjG8w4o5po-7" value="丰富指令中的约束形式为模型能力向其他方向分化增强提供路径与数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="660" width="200" height="80" as="geometry" />
+          <mxGeometry x="110" y="670" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

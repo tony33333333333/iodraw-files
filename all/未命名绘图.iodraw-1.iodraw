@@ -19,8 +19,8 @@
         <mxCell id="GAdoCGbxw3RjG8w4o5po-5" value="监督微调模型&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GAdoCGbxw3RjG8w4o5po-6" value="生成长文本数据&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-6" value="建立评测体系对数据质量进行评测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAdoCGbxw3RjG8w4o5po-1" target="GAdoCGbxw3RjG8w4o5po-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GAdoCGbxw3RjG8w4o5po-1" value="Construct seed instruction set" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -19,10 +22,10 @@
         <mxCell id="GAdoCGbxw3RjG8w4o5po-5" value="Supervised fine-tuning of the model" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GAdoCGbxw3RjG8w4o5po-6" value="建立评测体系对数据质量进行评测" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-6" value="Establish evaluation framework to assess data quality" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GAdoCGbxw3RjG8w4o5po-7" value="继续探究能力迁移方向与提供数据支持" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-7" value="Facilitate capability transfer and provide data support for extended tasks" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="670" width="125" height="70" as="geometry" />
         </mxCell>
       </root>

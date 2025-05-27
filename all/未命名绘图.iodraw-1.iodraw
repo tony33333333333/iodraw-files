@@ -16,12 +16,11 @@
         <mxCell id="GAdoCGbxw3RjG8w4o5po-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAdoCGbxw3RjG8w4o5po-2" target="GAdoCGbxw3RjG8w4o5po-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GAdoCGbxw3RjG8w4o5po-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAdoCGbxw3RjG8w4o5po-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="289" y="590" as="sourcePoint" />
             <mxPoint x="299" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="239" y="590" />
               <mxPoint x="239" y="310" />
             </Array>
           </mxGeometry>
@@ -56,8 +55,17 @@
         <mxCell id="GAdoCGbxw3RjG8w4o5po-7" value="Facilitate capability transfer and provide data support for extended tasks" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276.5" y="670" width="125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GAdoCGbxw3RjG8w4o5po-17" value="Modifying constraint forms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="418" width="160" height="30" as="geometry" />
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="GAdoCGbxw3RjG8w4o5po-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="289" y="590" as="sourcePoint" />
+            <mxPoint x="299" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="239" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-17" value="Modifying constraint forms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

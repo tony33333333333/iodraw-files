@@ -10,6 +10,12 @@
         <mxCell id="GAdoCGbxw3RjG8w4o5po-1" value="Construct seed instruction set" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAdoCGbxw3RjG8w4o5po-2" target="GAdoCGbxw3RjG8w4o5po-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAdoCGbxw3RjG8w4o5po-2" target="GAdoCGbxw3RjG8w4o5po-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GAdoCGbxw3RjG8w4o5po-2" value="Enhance length-aware generation ability" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="570" width="140" height="60" as="geometry" />
         </mxCell>

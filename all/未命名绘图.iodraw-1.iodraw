@@ -16,6 +16,14 @@
         <mxCell id="GAdoCGbxw3RjG8w4o5po-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAdoCGbxw3RjG8w4o5po-2" target="GAdoCGbxw3RjG8w4o5po-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAdoCGbxw3RjG8w4o5po-2" target="GAdoCGbxw3RjG8w4o5po-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="600" />
+              <mxPoint x="220" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GAdoCGbxw3RjG8w4o5po-2" value="Enhance length-aware generation ability" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="269" y="570" width="140" height="60" as="geometry" />
         </mxCell>

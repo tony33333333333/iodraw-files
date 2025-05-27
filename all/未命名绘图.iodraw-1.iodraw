@@ -10,10 +10,10 @@
         <mxCell id="GAdoCGbxw3RjG8w4o5po-2" value="篇幅生成能力提升" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="570" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GAdoCGbxw3RjG8w4o5po-3" value="扩展指令集&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-3" value="Expand instruction set" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GAdoCGbxw3RjG8w4o5po-4" value="生成长文本数据&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="GAdoCGbxw3RjG8w4o5po-4" value="Generate long-text data" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GAdoCGbxw3RjG8w4o5po-5" value="监督微调模型&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">

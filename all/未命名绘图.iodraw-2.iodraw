@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="injGhvj-ao2p_4qVrYx--1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;judge_prompt.md&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="170" y="585" width="470" height="420" as="geometry" />
+          <mxGeometry x="170" y="585" width="555" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="injGhvj-ao2p_4qVrYx--20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;给定一条用户的指令，请判断它是否适合指导长篇文章（比如，大于2000字）的生成。&lt;/div&gt;&lt;div&gt;只返回“是”或“否”作为你的回答。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;lt;指令&amp;gt;&lt;/div&gt;&lt;div&gt;{prompt}&lt;/div&gt;&lt;div&gt;&amp;lt;/指令&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="174" y="400" width="480" height="130" as="geometry" />
+        <mxCell id="injGhvj-ao2p_4qVrYx--20" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;M5IcyvOxdXu70G-GBmTv&quot; size=&quot;3&quot;&gt;给定一条用户的指令，请判断它是否适合指导长篇文章（比如，大于2000字）的生成。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;M5IcyvOxdXu70G-GBmTv&quot; size=&quot;3&quot;&gt;只返回“是”或“否”作为你的回答。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;M5IcyvOxdXu70G-GBmTv&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;M5IcyvOxdXu70G-GBmTv&quot; size=&quot;3&quot;&gt;&amp;lt;指令&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;M5IcyvOxdXu70G-GBmTv&quot; size=&quot;3&quot;&gt;{prompt}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;M5IcyvOxdXu70G-GBmTv&quot; size=&quot;3&quot;&gt;&amp;lt;/指令&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="injGhvj-ao2p_4qVrYx--1">
+          <mxGeometry x="-85" y="125" width="640" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

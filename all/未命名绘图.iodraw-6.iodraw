@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7Krm6aLfJZ3VtlrEMnQ4-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;restrictive&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="50" y="330" width="760" height="150" as="geometry" />
+          <mxGeometry x="50" y="330" width="630" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7Krm6aLfJZ3VtlrEMnQ4-2" value="{&quot;prompt&quot;: &quot;请撰写一篇以都市中平凡人物为主角的爱情小说。要求：&lt;div&gt;1）在清晨地铁、午间餐厅、深夜便利店 3 个场景中推进情节；&lt;div&gt;2）每场景结尾出现一次微妙肢体触碰；&lt;/div&gt;&lt;div&gt;3）引用 2 句现代诗作内心独白；&lt;/div&gt;&lt;div&gt;4）开放式结局留下想象空间；全文不少于1500字。&quot;}&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7Krm6aLfJZ3VtlrEMnQ4-1">
           <mxGeometry x="180" y="50" width="380" height="90" as="geometry" />

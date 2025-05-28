@@ -44,7 +44,7 @@
           <mxGeometry x="580" y="331.25" width="80" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="i4aUoWxTWI6uSj_SA7_U-8" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;check_response()&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="555" y="410" width="160" height="47.5" as="geometry" />
+          <mxGeometry x="555" y="412.5" width="165" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="i4aUoWxTWI6uSj_SA7_U-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp;drop_short()&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="555" y="493.13" width="130" height="53.75" as="geometry" />

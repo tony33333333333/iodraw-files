@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7Krm6aLfJZ3VtlrEMnQ4-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;non-restrictive&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+        <mxCell id="7Krm6aLfJZ3VtlrEMnQ4-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;restrictive&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="50" y="330" width="760" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7Krm6aLfJZ3VtlrEMnQ4-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{&quot;prompt&quot;: &quot;请撰写一篇以都市中平凡人物为主角的爱情小说，描述他们在快节奏生活中追寻温暖与情感归属的故事，全文不少于1500字。&quot;}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7Krm6aLfJZ3VtlrEMnQ4-1">

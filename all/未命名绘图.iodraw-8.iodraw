@@ -4,6 +4,106 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-49" value="Step 3: 持续部署 CD" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="735" width="312" height="338" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-50" value="Step 2: 持续集成 CI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="421" y="322" width="449" height="338" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-51" value="Step 1: 开发阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="565" y="70" width="218" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-52" value="Git Commit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="95" width="148" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-53" value="Git Push" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="612" y="196" width="124" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-54" value="代码静态扫描&#xa;Flake8" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="347" width="158" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-55" value="单元测试&#xa;PyTest" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="611" y="466" width="125" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-56" value="构建 Docker 镜像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="456" y="584" width="189" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-57" value="镜像仓库&#xa;Harbor/DockerHub" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="447" y="760" width="207" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-58" value="部署脚本&#xa;Docker Compose Up" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="442" y="879" width="218" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-59" value="健康检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="488" y="997" width="126" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-60" value="上线完成" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="442" y="1148" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-61" value="自动回滚" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="572" y="1163" width="95" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-62" value="邮件/钉钉告警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="737" y="888" width="134" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hQZMpl99HrY_p1AbrpXy-52" target="hQZMpl99HrY_p1AbrpXy-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hQZMpl99HrY_p1AbrpXy-54" target="hQZMpl99HrY_p1AbrpXy-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hQZMpl99HrY_p1AbrpXy-55" target="hQZMpl99HrY_p1AbrpXy-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="551" y="559" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hQZMpl99HrY_p1AbrpXy-57" target="hQZMpl99HrY_p1AbrpXy-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="hQZMpl99HrY_p1AbrpXy-58" target="hQZMpl99HrY_p1AbrpXy-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hQZMpl99HrY_p1AbrpXy-53" target="hQZMpl99HrY_p1AbrpXy-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hQZMpl99HrY_p1AbrpXy-56" target="hQZMpl99HrY_p1AbrpXy-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-70" value="Success" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hQZMpl99HrY_p1AbrpXy-59" target="hQZMpl99HrY_p1AbrpXy-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="482" y="1073" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-71" value="Fail" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hQZMpl99HrY_p1AbrpXy-59" target="hQZMpl99HrY_p1AbrpXy-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1073" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hQZMpl99HrY_p1AbrpXy-72" value="Fail" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hQZMpl99HrY_p1AbrpXy-55" target="hQZMpl99HrY_p1AbrpXy-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="804" y="559" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

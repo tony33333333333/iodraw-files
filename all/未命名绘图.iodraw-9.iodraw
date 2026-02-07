@@ -122,8 +122,8 @@
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l-_ZkKDvIDEMam2_1D2p-47" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Raw Context ---&amp;gt;&lt;b data-index-in-node=&quot;36&quot; data-path-to-node=&quot;6,1,1,0,0&quot;&gt;Context Reconstruction&amp;nbsp;&lt;/b&gt;---&amp;gt;Clean Context&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="643.44" y="310" width="266.56" height="30" as="geometry" />
+        <mxCell id="l-_ZkKDvIDEMam2_1D2p-47" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Raw Context&lt;/span&gt; ---&amp;gt;&lt;b data-index-in-node=&quot;36&quot; data-path-to-node=&quot;6,1,1,0,0&quot;&gt;Context Reconstruction&amp;nbsp;&lt;/b&gt;---&amp;gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Clean Context&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="266.56" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -51,55 +51,55 @@
           <mxGeometry x="320" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-33.75" width="637.5" height="637.5" as="geometry" />
+          <mxGeometry x="500" y="-41.87" width="653.75" height="653.75" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-12" value="对每一个Section都执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="703.75" y="-16.25" width="230" height="30" as="geometry" />
+          <mxGeometry x="703.75" y="-24.369999999999997" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-13" value="Section N：将分出来的每一个Section主题转化为一个具体的问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="582.5" y="33.75" width="472.5" height="40" as="geometry" />
+          <mxGeometry x="582.5" y="25.630000000000003" width="472.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-_ZkKDvIDEMam2_1D2p-14" target="l-_ZkKDvIDEMam2_1D2p-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-14" value="Specific Question" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="753.75" y="93.75" width="130" height="50" as="geometry" />
+          <mxGeometry x="753.75" y="85.63" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-_ZkKDvIDEMam2_1D2p-15" target="l-_ZkKDvIDEMam2_1D2p-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="518.75" y="173.75" width="600" height="360" as="geometry" />
+          <mxGeometry x="518.75" y="165.63" width="600" height="360" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-16" value="Deep Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="763.13" y="183.75" width="111.25" height="30" as="geometry" />
+          <mxGeometry x="763.13" y="175.63" width="111.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-_ZkKDvIDEMam2_1D2p-18" target="l-_ZkKDvIDEMam2_1D2p-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-18" value="Search" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="333.75" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="325.63" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l-_ZkKDvIDEMam2_1D2p-19" target="l-_ZkKDvIDEMam2_1D2p-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-19" value="Read" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="763.75" y="233.75" width="120" height="80" as="geometry" />
+          <mxGeometry x="763.75" y="225.63" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-_ZkKDvIDEMam2_1D2p-20" target="l-_ZkKDvIDEMam2_1D2p-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-20" value="Reason" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="383.75" width="120" height="80" as="geometry" />
+          <mxGeometry x="980" y="375.63" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-25" value="Context&lt;div&gt;Engineering&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="313.75" width="130" height="30" as="geometry" />
+          <mxGeometry x="640" y="305.63" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-27" value="如果Reasoning后觉得目前生成的内容不全面等，则修改一个新的Query继续搜，直到内容合格或触发了循环终止的条件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="463.75" width="230" height="30" as="geometry" />
+          <mxGeometry x="690" y="455.63" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-34" value="Section Draft" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="773.36" y="547.5" width="100.78" height="52.5" as="geometry" />
+          <mxGeometry x="773.36" y="539.38" width="100.78" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

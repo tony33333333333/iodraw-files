@@ -39,7 +39,7 @@
           <mxGeometry x="320" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="12.5" width="557.5" height="557.5" as="geometry" />
+          <mxGeometry x="500" y="12.5" width="637.5" height="637.5" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-12" value="对每一个Section都执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="657.5" y="30" width="230" height="30" as="geometry" />
@@ -48,10 +48,10 @@
           <mxGeometry x="536.25" y="80" width="472.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-14" value="Specific Question" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707.5" y="140" width="130" height="50" as="geometry" />
+          <mxGeometry x="740" y="130" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="520" height="320" as="geometry" />
+          <mxGeometry x="558.75" y="250" width="520" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

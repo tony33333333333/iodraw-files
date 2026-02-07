@@ -95,7 +95,7 @@
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-20" value="Reason" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="375.63" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l-_ZkKDvIDEMam2_1D2p-25" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Context&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;n5Iz0PUOb1c8KQyMnrTP&quot; size=&quot;3&quot;&gt;Engineering&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="l-_ZkKDvIDEMam2_1D2p-25" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Context&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;&lt;b&gt;Engineering&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="305.63" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-27" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;如果Reasoning后觉得目前生成的内容不全面等，则修改一个新的Query继续搜，直到内容合格或触发了循环终止的条件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

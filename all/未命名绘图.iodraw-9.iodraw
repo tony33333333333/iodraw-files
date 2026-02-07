@@ -101,7 +101,7 @@
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-34" value="Section Draft" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="773.36" y="539.38" width="100.78" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="l-_ZkKDvIDEMam2_1D2p-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l-_ZkKDvIDEMam2_1D2p-36" value="Consolidate&lt;div&gt;Sections&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="255" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

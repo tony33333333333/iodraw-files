@@ -42,16 +42,16 @@
           <mxGeometry x="500" y="12.5" width="637.5" height="637.5" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-12" value="对每一个Section都执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="657.5" y="30" width="230" height="30" as="geometry" />
+          <mxGeometry x="703.75" y="30" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-13" value="Section N：将分出来的每一个Section主题转化为一个具体的问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536.25" y="80" width="472.5" height="40" as="geometry" />
+          <mxGeometry x="582.5" y="80" width="472.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-14" value="Specific Question" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="130" width="130" height="50" as="geometry" />
+          <mxGeometry x="753.75" y="140" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="558.75" y="250" width="520" height="320" as="geometry" />
+          <mxGeometry x="520" y="250" width="558.75" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -86,7 +86,7 @@
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l-_ZkKDvIDEMam2_1D2p-19" target="l-_ZkKDvIDEMam2_1D2p-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l-_ZkKDvIDEMam2_1D2p-19" value="Read" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l-_ZkKDvIDEMam2_1D2p-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Read&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="763.75" y="225.63" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-_ZkKDvIDEMam2_1D2p-20" target="l-_ZkKDvIDEMam2_1D2p-18">

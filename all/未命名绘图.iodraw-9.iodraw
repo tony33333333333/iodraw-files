@@ -47,6 +47,9 @@
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-13" value="Section N：将分出来的每一个Section主题转化为一个具体的问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="80" width="472.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="l-_ZkKDvIDEMam2_1D2p-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-_ZkKDvIDEMam2_1D2p-14" target="l-_ZkKDvIDEMam2_1D2p-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-14" value="Specific Question" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="753.75" y="140" width="130" height="50" as="geometry" />
         </mxCell>
@@ -75,7 +78,7 @@
           <mxGeometry x="980" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-25" value="Context&lt;div&gt;Engineering&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="360" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

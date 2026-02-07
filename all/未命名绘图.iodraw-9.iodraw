@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-18" value="Search" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l-_ZkKDvIDEMam2_1D2p-19" target="l-_ZkKDvIDEMam2_1D2p-20">
           <mxGeometry relative="1" as="geometry" />
@@ -73,6 +73,9 @@
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-20" value="Reason" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l-_ZkKDvIDEMam2_1D2p-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

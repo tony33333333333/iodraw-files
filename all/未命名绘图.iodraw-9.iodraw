@@ -101,7 +101,7 @@
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-27" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;如果Reasoning后觉得目前生成的内容不全面等，则修改一个新的Query继续搜，直到内容合格或触发了循环终止的条件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="688.75" y="430" width="260" height="44.37" as="geometry" />
         </mxCell>
-        <mxCell id="l-_ZkKDvIDEMam2_1D2p-34" value="Section Draft" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l-_ZkKDvIDEMam2_1D2p-34" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Section Draft&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="773.36" y="539.38" width="100.78" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="l-_ZkKDvIDEMam2_1D2p-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-_ZkKDvIDEMam2_1D2p-36" target="l-_ZkKDvIDEMam2_1D2p-37">
